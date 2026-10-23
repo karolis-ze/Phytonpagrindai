@@ -1,6 +1,4 @@
 import random
 
-def print_random_number():
-    skaicius = random.randint(1, 100)
-    print(f"Random number: {skaicius}")
-
+saknis = random.randint(1, 100)
+print("Atsitiktinis skaičius nuo 1 iki 100:", saknis)
